@@ -1,0 +1,1 @@
+# git-merge-pr-sample
